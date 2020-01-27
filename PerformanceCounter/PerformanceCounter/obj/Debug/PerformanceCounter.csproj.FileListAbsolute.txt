@@ -1,0 +1,12 @@
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\obj\Debug\PerformanceCounter.csprojAssemblyReference.cache
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\bin\Debug\PerformanceCounter.exe.config
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\bin\Debug\PerformanceCounter.exe
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\bin\Debug\PerformanceCounter.pdb
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\bin\Debug\Microsoft.VisualStudio.PerformanceTools.Automation.dll
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\bin\Debug\EnvDTE.dll
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\bin\Debug\stdole.dll
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\obj\Debug\PerformanceCounter.csproj.CopyComplete
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\obj\Debug\PerformanceCounter.exe
+C:\Users\wcarl\Desktop\PAPER\PerformanceCounter\PerformanceCounter\PerformanceCounter\obj\Debug\PerformanceCounter.pdb
